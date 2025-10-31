@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bank
 spec:
-  replicas: 1o
+  replicas: 10
   selector:
     matchLabels:
       app: bank
